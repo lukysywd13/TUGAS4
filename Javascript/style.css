@@ -37,9 +37,9 @@ body {
     text-align: center;
     margin: 20px 10px;
     font-weight: bold;
-    border: 2px solid navy;
+    border: 2px solid black;
     background: transparent;
-    color: white;
+    color: purple;
     cursor: pointer;
     overflow: hidden;
     text-transform: uppercase;
@@ -47,7 +47,7 @@ body {
 }
 
 span {
-    background: navy;
+    background: black;
     height: 100%;
     width: 0;
     position: absolute;
